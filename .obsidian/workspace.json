@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "c5a6b19313238bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aff81393b5f6963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad90949f61acee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b9b885fb44f8dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6897e521930a0d35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2452762fa0306ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db62bb5f2b7bf78e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:prediction",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acc86dd5811cc112",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b1dcf1a8b97a64c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7402c1fc39d7617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f5d1ccbb9a00131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/MiroFish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MiroFish"
+            }
+          },
+          {
+            "id": "75f3f1d31ac37647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/MiroFish.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MiroFish"
+            }
+          },
+          {
+            "id": "c22fefcd110db75b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71eb8d12545c8799",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0fe8f286543f5cf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/MiroFish.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MiroFish"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b2452762fa0306ae",
+  "lastOpenFiles": [
+    "README.md",
+    "wiki/log.md",
+    "wiki/concepts/MiroFish.md",
+    "wiki/index.md",
+    "raw/666ghjMiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物.md",
+    "2026-04-21.md",
+    "Untitled 1.canvas",
+    "wiki/entities/Shanda Group.md",
+    "wiki/entities/OASIS.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "create a link.md",
+    "Untitled.base",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw"
+  ]
+}
